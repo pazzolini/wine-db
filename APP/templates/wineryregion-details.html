@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>Winery Region Details</h1>
+
+{% if winery_region %}
+<table>
+  <tr>
+    <th>Winery Name</th>
+    <td>{{ winery_region.WineryName }}</td>
+  </tr>
+  <tr>
+    <th>Region Name</th>
+    <td>{{ winery_region.RegionName }}</td>
+  </tr>
+</table>
+{% else %}
+<p>WineryRegion with WineryID {{ winery_id }} and RegionID {{ region_id }} does not exist.</p>
+{% endif %}
+
+<a href="{{ url_for('list_winery_regions') }}">Back to Winery Regions</a>
+
+{% endblock %}
+

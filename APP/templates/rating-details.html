@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>Rating Details</h1>
+
+{% if rating %}
+<table>
+  <tr>
+    <th>Rating ID</th>
+    <td>{{ rating.RatingID }}</td>
+  </tr>
+  <tr>
+    <th>Wine ID</th>
+    <td>{{ rating.WineID }}</td>
+  </tr>
+  <tr>
+    <th>User ID</th>
+    <td>{{ rating.UserID }}</td>
+  </tr>
+  <tr>
+    <th>Rating</th>
+    <td>{{ rating.WineRating }}</td>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <td>{{ rating.RatingDate }}</td>
+  </tr>
+</table>
+{% else %}
+<p>Rating id {{ id }} does not exist.</p>
+{% endif %}
+
+<a href="{{ url_for('list_ratings') }}">Back to Ratings</a>
+
+{% endblock %}
+

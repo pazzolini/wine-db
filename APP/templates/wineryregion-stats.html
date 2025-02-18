@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>Winery per Region Statistics</h1>
+<table>
+  <tr>
+    <th>Winery Name</th>
+    <th>Region Name</th>
+    <th>Total Wines</th>
+    <th>Average Rating</th>
+  </tr>
+  {% for stat in stats %}
+  <tr>
+    <td>{{ stat.WineryName }}</td>
+    <td>{{ stat.RegionName }}</td>
+    <td>{{ stat.TotalWines }}</td>
+    <td>{{ stat.AvgRating|round(2) }}</td>
+  </tr>
+  {% endfor %}
+</table>
+{% endblock %}
+

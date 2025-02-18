@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>Body Details</h1>
+
+{% if wine_body %}
+<table>
+  <tr>
+    <th>ID</th>
+    <td>{{ wine_body.WineBodyID }}</td>
+  </tr>
+  <tr>
+    <th>Body Name</th>
+    <td>{{ wine_body.WineBodyName }}</td>
+  </tr>
+</table>
+{% else %}
+<p>Wine body not found.</p>
+{% endif %}
+
+<a href="{{ url_for('list_wine_bodies') }}">Back to Wine Bodies</a>
+
+{% endblock %}
+

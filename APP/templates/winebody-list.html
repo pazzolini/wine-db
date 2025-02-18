@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>Body</h1>
+<table>
+  <tr>
+    <th><b>ID</b></th>
+    <th><b>Body Name</b></th>
+  </tr>
+
+  {% for wine_body in wine_bodies %}
+  <tr>
+    <td><a href="{{ url_for('get_wine_body', id=wine_body.WineBodyID) }}">{{ wine_body.WineBodyID }}</a></td>
+    <td>{{ wine_body.WineBodyName }}</td>
+  </tr>
+  {% endfor %}
+</table>
+{% endblock %}
+

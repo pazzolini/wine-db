@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>Regions</h1>
+<table>
+  <tr>
+    <th><b>ID</b></th>
+    <th><b>Region Name</b></th>
+    <th><b>Country</b></th>
+  </tr>
+
+  {% for region in regions %}
+  <tr>
+    <td><a href="{{ url_for('get_region', id=region.RegionID) }}">{{ region.RegionID }}</a></td>
+    <td>{{ region.RegionName }}</td>
+    <td>{{ region.Country }}</td>
+  </tr>
+  {% endfor %}
+</table>
+{% endblock %}
+

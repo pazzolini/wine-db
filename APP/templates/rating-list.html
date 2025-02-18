@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>Ratings</h1>
+<table>
+  <tr>
+    <th><b>Rating ID</b></th>
+    <th><b>Wine ID</b></th>
+    <th><b>User ID</b></th>
+    <th><b>Rating</b></th>
+    <th><b>Date</b></th>
+  </tr>
+
+  {% for rating in ratings %}
+  <tr>
+    <td><a href="{{ url_for('get_rating', id=rating.RatingID) }}">{{ rating.RatingID }}</a></td>
+    <td>{{ rating.WineID }}</td>
+    <td>{{ rating.UserID }}</td>
+    <td>{{ rating.WineRating }}</td>
+    <td>{{ rating.RatingDate }}</td>
+  </tr>
+  {% endfor %}
+</table>
+{% endblock %}
+

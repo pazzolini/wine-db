@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>Users</h1>
+<table>
+  <tr>
+    <th><b>User ID</b></th>
+  </tr>
+
+  {% for user in users %}
+  <tr>
+    <td><a href="{{ url_for('get_user', id=user.UserID) }}">{{ user.UserID }}</a></td>
+  </tr>
+  {% endfor %}
+</table>
+{% endblock %}
+

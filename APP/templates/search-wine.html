@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>Search Wine</h1>
+<form action="{{ url_for('search_wine') }}" method="get">
+  <input type="text" name="query" placeholder="Enter wine name">
+  <button type="submit">Search</button>
+</form>
+
+{% if wines %}
+<table>
+  <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>ABV</th>
+  </tr>
+  {% for wine in wines %}
+  <tr>
+    <td>{{ wine.WineID }}</td>
+    <td>{{ wine.WineName }}</td>
+    <td>{{ wine.ABV }}%</td>
+  </tr>
+  {% endfor %}
+</table>
+{% else %}
+<p>No wines found.</p>
+{% endif %}
+{% endblock %}
+

@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>Wineries</h1>
+<table>
+  <tr>
+    <th><b>ID</b></th>
+    <th><b>Name</b></th>
+    <th><b>Website</b></th>
+  </tr>
+
+  {% for winery in wineries %}
+  <tr>
+    <td><a href="{{ url_for('get_winery', id=winery.WineryID) }}">{{ winery.WineryID }}</a></td>
+    <td>{{ winery.WineryName }}</td>
+    <td><a href="{{ winery.Website }}">{{ winery.Website }}</a></td>
+  </tr>
+  {% endfor %}
+</table>
+{% endblock %}
+

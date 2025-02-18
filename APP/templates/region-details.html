@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>Region Details</h1>
+
+{% if region %}
+<table>
+  <tr>
+    <th>ID</th>
+    <td>{{ region.RegionID }}</td>
+  </tr>
+  <tr>
+    <th>Region Name</th>
+    <td>{{ region.RegionName }}</td>
+  </tr>
+  <tr>
+    <th>Country</th>
+    <td>{{ region.Country }}</td>
+  </tr>
+</table>
+{% else %}
+<p>Region not found.</p>
+{% endif %}
+
+<a href="{{ url_for('list_regions') }}">Back to Regions</a>
+
+{% endblock %}
+

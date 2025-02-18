@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>Acidity Details</h1>
+
+{% if wine_acidity %}
+<table>
+  <tr>
+    <th>ID</th>
+    <td>{{ wine_acidity.WineAcidityID }}</td>
+  </tr>
+  <tr>
+    <th>Acidity Name</th>
+    <td>{{ wine_acidity.WineAcidityName }}</td>
+  </tr>
+</table>
+{% else %}
+<p>Wine acidity not found.</p>
+{% endif %}
+
+<a href="{{ url_for('list_wine_acidities') }}">Back to Wine Acidities</a>
+
+{% endblock %}
+

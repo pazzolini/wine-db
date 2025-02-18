@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>User Details</h1>
+
+{% if user %}
+<table>
+  <tr>
+    <th>User ID</th>
+    <td>{{ user.UserID }}</td>
+  </tr>
+</table>
+{% else %}
+<p>User id {{ id }} does not exist.</p>
+{% endif %}
+
+<a href="{{ url_for('list_users') }}">Back to Users</a>
+
+{% endblock %}
+

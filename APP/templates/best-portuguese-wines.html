@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>Top 25 Portuguese Wines</h1>
+<table>
+  <tr>
+    <th>ID</th>
+    <th>Wine Name</th>
+    <th>ABV</th>
+    <th>Type</th>
+    <th>Body</th>
+    <th>Acidity</th>
+    <th>Winery</th>
+    <th>Region</th>
+    <th>Average Rating</th>
+  </tr>
+
+  {% for wine in top_wines %}
+  <tr>
+    <td><a href="{{ url_for('get_wine', id=wine.WineID) }}">{{ wine.WineID }}</a></td>
+    <td>{{ wine.WineName }}</td>
+    <td>{{ wine.ABV }}%</td>
+    <td>{{ wine.WineTypeName }}</td>
+    <td>{{ wine.WineBodyName }}</td>
+    <td>{{ wine.WineAcidityName }}</td>
+    <td>{{ wine.WineryName }}</td>
+    <td>{{ wine.RegionName }}</td>
+    <td>{{ wine.AvgRating|round(2) }}</td>
+  </tr>
+  {% endfor %}
+</table>
+{% endblock %}
+

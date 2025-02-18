@@ -1,0 +1,61 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>WineApp Database</h1>
+
+<h2>About</h2>
+<p>This web application illustrates the use of the WineApp
+database. The application is built using 
+<a href="https://docs.python.org/3/library/sqlite3.html">sqlite3</a>,
+<a href="https://flask.palletsprojects.com">Flask</a>, and
+<a href="https://jinja.palletsprojects.com">Jinja</a>.
+</p>
+
+<h2>Some database statistics</h2>
+<table>
+  <tr>
+    <th>Items</th>
+    <th>Count</th>
+  </tr>
+  <tr>
+    <td>Wines</td>
+    <td>{{ stats.n_wines }}</td>
+  </tr>
+  <tr>
+    <td>Wine Regions</td>
+    <td>{{ stats.n_regions }}</td>
+  </tr>
+  <tr>
+    <td>Wineries</td>
+    <td>{{ stats.n_wineries }}</td>
+  </tr>
+  <tr>
+    <td>Users</td>
+    <td>{{ stats.n_users }}</td>
+  </tr>
+  <tr>
+    <td>Ratings</td>
+    <td>{{ stats.n_ratings }}</td>
+  </tr>
+</table>
+
+<nav>
+  <h2>Navigate</h2>
+  <ul>
+    <li><a href="{{ url_for('list_wines') }}">Wines</a></li>
+    <li><a href="{{ url_for('list_wine_types') }}">Type</a></li>
+    <li><a href="{{ url_for('list_wine_bodies') }}">Body</a></li>
+    <li><a href="{{ url_for('list_wine_acidities') }}">Acidity</a></li>
+    <li><a href="{{ url_for('list_wineries') }}">Wineries</a></li>
+    <li><a href="{{ url_for('list_regions') }}">Regions</a></li>
+    <li><a href="{{ url_for('list_winery_regions') }}">Winery / Regions</a></li>
+    <li><a href="{{ url_for('list_users') }}">Users</a></li>
+    <li><a href="{{ url_for('list_ratings') }}">Ratings</a></li>
+    <li><a href="{{ url_for('wine_details_complete') }}">Complete Wine Details</a></li>
+    <li><a href="{{ url_for('search_wine') }}">Search Wine by Name</a></li>
+    <li><a href="{{ url_for('winery_region_stats') }}">Winery per Region Statistics</a></li>
+    <li><a href="{{ url_for('best_portuguese_wines') }}">Best Portuguese Wines</a></li> 
+  </ul>
+</nav>
+
+{% endblock %}
+
