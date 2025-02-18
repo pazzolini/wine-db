@@ -119,7 +119,3 @@ HAVING AVG(Rating.WineRating) IS NOT NULL
 ORDER BY AvgRating DESC
 LIMIT 25;
 ```
-
----
-Let me know if you need any modifications! 🚀
-
