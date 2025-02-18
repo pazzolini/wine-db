@@ -1,0 +1,1007 @@
+100001,Espumante Moscatel,7.5,4,3,3,10001,1001
+100002,Ancellotta,12.0,1,3,2,10001,1001
+100003,Cabernet Sauvignon,12.0,1,4,3,10002,1001
+100005,Maison de Ville Cabernet-Merlot,11.0,1,4,2,10000,1001
+100007,Do Lugar Moscatel Espumantes,7.5,4,3,3,10012,1001
+100008,Paradoxo Cabernet Sauvignon,13.5,1,4,3,10011,1001
+100010,Defesa Tinto,14.0,1,4,3,12039,1038
+100012,Vinho Verde Branco,9.0,2,1,3,12474,1034
+100013,Ruby Port,19.5,6,5,3,10674,1031
+100014,Tawny Port,19.5,6,5,3,10674,1031
+100016,Acquasantiera Tinto Seco Fino,11.0,1,3,1,10010,1001
+100017,Colheita Tardia Malvasia-Moscato,12.5,5,3,3,10000,1001
+100018,Cave Cabernet Sauvignon,13.0,1,4,3,10025,1001
+100019,Singular Nebbiolo,14.9,1,4,3,10020,1002
+100021,Merlot Reserva,13.5,1,4,1,10426,1002
+100022,Malbec Brut Rosé,11.5,4,3,3,10022,1001
+100025,Espumante Método Charmat Brut,12.0,4,3,3,10001,1001
+100046,Vista de Serra Syrah,14.0,1,4,3,10559,1027
+100049,Cuvée Giuseppe Merlot-Cabernet Sauvignon,14.0,1,4,3,10013,1002
+100052,Reserva Tannat,12.5,1,3,1,10000,1001
+100055,Millesimé Cabernet Sauvignon,13.0,1,4,3,10000,1001
+100056,Brut Prosecco,11.5,4,3,3,10011,1001
+100060,Reserva Tannat,14.0,1,5,2,10013,1004
+100061,Moscatel,8.0,4,3,3,10010,1001
+100062,Origem Merlot,13.0,1,4,2,10014,1002
+100063,Quinta do Seival Estate Castas Portuguesas,13.0,1,4,2,10013,1004
+100064,Réserve Brut,12.0,4,3,3,10051,1001
+100067,Sur Lie Nature,12.0,4,3,3,10014,1001
+100073,Moscatel,7.5,4,3,3,10011,1001
+100080,Agnus Cabernet Sauvignon,13.5,1,4,3,10020,1002
+100086,Selecão Chardonnay-Viognier,12.0,2,3,2,10013,1004
+100088,Aquarela Moscatel Espumante,7.5,4,2,2,10001,1001
+100092,Nature,12.5,4,3,3,10412,1001
+100097,Terranova Espumante Moscatel,7.5,4,3,3,10013,1010
+100108,Colheita Tardia Malvasia Bianca,12.5,5,2,3,10000,1001
+100114,Primeira Estrada Syrah,13.5,1,4,3,10569,1023
+100120,Marcus James Cabernet Sauvignon,11.5,1,4,3,10000,1001
+100125,Riche Demi-Sec,12.5,4,3,3,10051,1001
+100129,Faces Pinot Noir Rosé,12.0,3,3,1,10020,1002
+100135,Cave Amadeu Rosé Brut,12.0,4,3,3,10412,1001
+100191,Reserva Chardonnay,13.0,2,3,2,10000,1001
+100207,Paralelo 31 Proprietor Reserva,14.0,1,3,3,10029,1004
+100305,Brut,12.0,4,3,3,10426,1002
+100523,Espumante Brut Rosé,12.0,4,3,3,10011,1001
+100556,Marie Gabi Rosado,12.0,3,2,2,10152,1000
+100565,Varietal Riesling Itálico,12.5,2,3,3,10000,1001
+100841,Licoroso Tinto,18.0,5,4,3,10000,1001
+101008,Campo Largo Branco Seco de Mesa,10.0,2,3,3,10153,1001
+101052,Brut Classic,12.0,4,3,3,57156,1763
+101154,Veneza Cabernet Sauvignon,12.0,1,4,3,10329,1001
+101213,Reservado Cabernet Sauvignon,11.5,1,4,3,10329,1001
+101424,STORIA Grappa Merlot,39.0,5,5,3,10014,1002
+101539,Vecchia Grappa Moscato,38.5,5,4,3,10000,1001
+101563,Esporão Reserva Tinto,14.5,1,4,3,12039,1039
+101566,Monte Velho Tinto,13.5,1,4,3,12039,1038
+101567,Tinto,13.0,1,4,3,11644,1035
+101570,Tinto,13.0,1,5,3,10892,1032
+101576,Red Blend,13.5,1,4,3,13189,1073
+101584,Flor de Crasto Tinto,14.5,1,5,3,10997,1032
+101586,The Original Rosé,11.0,3,3,2,11353,1032
+101592,Meandro Douro Tinto,14.0,1,5,3,11074,1032
+101595,Tinto (Touriga Nacional-Syrah-Aragonez),13.3,1,4,3,12069,1038
+101610,Late Bottled Vintage Port,20.0,6,5,3,10665,1031
+101617,Cedro do Noval,14.0,1,5,3,10734,1052
+101632,Vinho Verde Branco,11.0,2,1,3,11568,1034
+101635,Vinho Verde Loureiro-Alvarinho,11.0,2,1,3,11477,1040
+101644,Meio Queijo Douro Tinto,13.5,1,5,3,10726,1032
+101651,Signature Tinto,13.5,1,4,3,12090,1038
+101660,10 Year Old Tawny Port,20.0,6,5,3,10665,1031
+101677,Reserva (Field Blend),14.5,1,5,3,11321,1032
+101678,Touriga Nacional,14.5,1,5,3,11321,1032
+101693,Douro,14.5,1,5,3,11074,1032
+101701,Tinto,13.5,1,4,3,12097,1038
+101713,Alentejo Tinto,14.5,1,4,3,12222,1039
+101783,Colheita Seleccionada Tinto,13.0,1,4,3,12724,1046
+101847,Dona Antonia Porto Reserva Tawny,20.0,6,5,3,10674,1031
+101874,Douro Tinto,13.5,1,5,3,10699,1031
+101970,Vinho Verde Bruto Muralhas,13.0,4,3,2,11535,1034
+102051,Vinho Verde Fonte,9.8,2,1,3,11477,1034
+102055,Fine Ruby Port,19.5,6,5,2,10703,1031
+102079,Maré Alta,10.0,2,1,3,11486,1034
+102126,Tinto,13.0,1,4,3,11764,1035
+102280,Vinho Verde Rosé,9.5,3,3,2,12473,1034
+102292,Rosé (Touriga Nacional-Syrah-Aragonez),12.9,3,3,3,12069,1038
+102304,Heritage Ruby Port,19.0,6,5,3,10693,1031
+102341,Fine Ruby Port,19.0,6,4,3,10736,1031
+102392,Terras do Demo Touriga Nacional,12.0,4,3,1,12674,1048
+102448,20 Year Old Tawny Port,20.0,6,5,3,10728,1031
+102466,Telhas Tinto,14.0,1,4,3,12277,1039
+102547,Espumante de Vinho Verde Meio Seco,11.0,4,3,3,10737,1034
+102645,Terras de Felgueiras Espumante de Vinho Verde Seco Branco,11.5,4,3,2,11521,1034
+102902,Pátria Alentejo Selection Reserva,14.5,1,4,2,12437,1039
+102950,Douro Peccatore,13.0,1,5,3,11424,1032
+103003,Além do Rio Branco,9.5,2,3,3,11676,1035
+103070,Calda Bordaleza Tinto,14.0,1,4,2,12633,1046
+103423,Medium Dry Sherry,16.5,5,4,3,10703,1984
+103433,Regional Tinto,13.0,1,4,2,11681,1035
+103435,Lacrau Colheita Field Blend,13.5,1,4,2,11004,1032
+103471,Presidential Colheita Port,20.0,6,5,3,10724,1031
+103474,Grand'Arte Touriga Nacional,13.0,1,4,3,11756,1035
+103637,Casa Burmester Touriga Nacional,13.5,1,5,3,10697,1031
+103667,Maria Izabel Rosé,13.0,3,3,3,10983,1032
+103923,Alvarinho,13.2,2,1,3,12510,1040
+103989,Indie Xisto Tinto,12.5,1,5,3,11093,1032
+104000,Bairrada Reserva Da Familia,13.0,2,2,3,11477,1046
+104005,Branco,14.0,2,3,3,12346,1039
+104026,20 Anos Tawny Porto,20.0,6,5,3,10813,1032
+104580,Aragonêz Rosé,10.5,3,2,3,11353,1032
+104585,Branco,13.0,2,3,3,12415,1038
+104616,Reserva da Família Alvarinho,12.0,2,1,3,11477,1040
+104706,Tiroliro Alvarinho,12.0,2,2,3,11575,1040
+104797,Quinta Da Gricha Vintage Port,19.5,6,5,3,10726,1031
+104821,10 Anos Tawny Porto,20.0,6,5,3,10813,1031
+104878,10 Year Old Tawny Porto,20.0,6,5,3,11366,1031
+104976,Late Bottled Vintage Porto,20.0,6,5,2,10813,1032
+105004,20 Years Old Tawny Porto,20.5,6,5,3,10684,1031
+105032,Diga? Branco,13.5,2,2,3,12633,1046
+105141,Don Fino Superior Fino Sherry,15.0,5,4,3,10703,3213
+105364,Character Medium Dry Amontillado Sherry,17.5,5,4,3,10703,3212
+105488,Touriga Nacional,13.5,1,5,3,10819,1032
+105585,Terras de Basto Tinto,10.5,1,4,2,11590,1034
+105599,Primata Touriga Nacional,11.2,1,4,2,10901,1032
+105656,Private Alvarinho,12.5,2,1,3,11462,1034
+105727,Tinta Negra Rosé,11.5,3,3,2,13006,1057
+105748,Porto Colheita,20.0,6,5,2,11424,1031
+105763,Porto Colheita,19.5,6,5,3,10671,1031
+105770,Colheita Porto,20.0,6,5,3,10710,1031
+105787,Douro Tourgia Franca,14.0,1,5,3,11036,1032
+105911,White Reserve Porto,19.5,6,5,2,10813,1032
+105969,Colheita Porto,20.0,6,5,3,11006,1031
+106004,Touriga Franca,13.0,1,5,3,10800,1032
+106091,Danaide Vinho Verde,10.5,1,4,3,11535,1034
+106468,Vinho Verde Rosé,10.0,3,2,3,11544,1034
+106530,Nik Weis Selection Urban Riesling,9.5,2,2,3,14311,1081
+106531,Riesling Trocken,12.0,2,2,3,14904,1102
+106534,Riesling Trocken,12.0,2,2,3,15054,1104
+106536,Gelblack Riesling Trocken,12.0,2,2,3,15070,1104
+106537,Eins Zwei Dry Riesling,12.5,2,2,3,15066,1104
+106540,Riesling,11.0,2,2,3,14000,1081
+106541,Riesling Trocken,12.0,2,2,3,14409,1100
+106542,Rheinhessen Riesling Feinherb,11.5,2,2,3,13771,1105
+106544,Pinot Noir Rosé,12.5,3,2,2,14917,1102
+106552,Riesling Kabinett Blue Slate,8.0,2,2,3,13759,1081
+106553,Riesling Trocken,12.0,2,2,3,15247,1105
+106629,Spätburgunder,13.5,1,4,3,14116,1084
+106635,Malterdinger Spätburgunder,13.0,1,4,3,13213,1080
+106639,Pinot Noir Rosé,11.5,3,3,2,14417,1100
+106668,Haus Klosterberg Pinot Noir,13.5,1,4,3,13633,1081
+106669,Blauer Spätburgunder Trocken,13.0,1,4,3,14469,1102
+106681,Pinot Noir Rosè,12.0,3,3,3,15066,1104
+106688,Spätburgunder Tradition,13.0,1,4,3,14868,1102
+106748,J² Gau-Odernheimer Spätburgunder,13.0,1,4,3,15444,1105
+106752,Spätburgunder (Pinot Noir),12.5,1,4,3,15158,1104
+106803,Spätburgunder Trocken,12.0,1,4,3,14997,1104
+106831,Spätburgunder Trocken,14.0,1,4,3,14313,1098
+106867,Dornfelder Trocken,12.5,1,2,3,15657,1102
+106889,Clarette Rosé Trocken,11.5,3,3,3,14469,1102
+107023,Ürziger Würzgarten Riesling Kabinett,10.5,2,2,3,13633,1081
+107030,Riesling Medium Sweet,10.5,5,2,3,13537,1081
+107044,J² Gau-Odernheimer Riesling,12.5,2,2,3,15444,1105
+107183,Brauneberger Juffer Riesling Auslese,7.5,5,2,3,14160,1086
+107214,Black Label Nik Weis Saar Riesling,11.5,2,3,3,14311,1081
+107320,Rosé de Diel Trocken,12.0,3,4,2,14401,1100
+107674,Lorch Riesling,12.0,2,2,3,15127,1104
+107691,Forster Ungeheuer Riesling Eiswein,10.5,5,2,3,14465,1102
+107846,Malterdinger Bienenberg Weissburgunder,13.0,2,3,3,13213,1080
+108188,Pittermännchen Riesling GG,12.5,2,2,3,14401,1100
+108242,Blue Burg Layer Schlosskapelle Kerner Spätlese,9.5,2,3,3,15496,1100
+108329,Saarburger Riesling Kabinett,8.0,2,2,3,13856,1081
+108360,Nieder-Hilbersheimer Riesling Eisenerz,12.5,2,2,3,15384,1105
+108681,Mulheimer Helenenkloster Riesling Eiswein,9.0,5,2,3,14060,1081
+108705,Oberrotweiler Spätburgunder Spätlese Trocken,14.0,1,4,1,13506,1080
+108966,Niersteiner Auflangen Riesling Spätlese,11.0,2,2,3,15227,1105
+108974,Felix Lemberger Trocken,13.0,1,3,3,15742,1111
+108976,Bernkasteler Badstube Riesling Spätlese,8.5,2,2,3,13521,1081
+109250,Nackenheim Rothenberg,13.0,2,2,3,15380,1105
+109349,Urgestein Riesling (Trocken),12.0,2,2,3,15060,1104
+109547,Graf Von Are Spätburgunder,11.5,1,4,3,14123,1084
+109705,Nashorn Trollinger-Lemberger Trocken,13.5,1,2,1,15727,1111
+109826,Trollinger-Lemberger Trocken,13.0,1,2,2,15768,1111
+109847,Kinheimer Rosenberg Riesling-Kabinett Trocken,11.5,2,2,3,13896,1081
+109954,Merlot Reserve Trocken,13.5,1,3,2,15727,1111
+110034,Hörsteiner Abtsberg Silvaner Trocken,12.5,2,3,2,14207,1091
+110109,Crescentia Assmannshäuser Höllenberg Blanc de Noirs Extra Brut,12.5,4,2,2,14997,1104
+110334,Bermatinger Leopoldsberg B Spätburgunder,12.8,1,4,3,13214,1080
+110680,Dorsheim Pittermannchen Riesling Spätlese,8.0,5,2,3,14401,1100
+111328,Lorenzhöfer Riesling Beerenauslese,10.0,5,2,3,13866,1081
+111395,Pauillac (Premier Grand Cru Classé),13.0,1,4,3,29244,1396
+111398,Rouge,13.0,1,4,3,30896,1421
+111415,Pauillac (Premier Grand Cru Classé),13.0,1,4,3,29220,1396
+111417,Pauillac (Grand Cru Classé),14.5,1,4,3,29231,1396
+111420,Beaujolais-Villages,12.3,1,3,3,16604,1138
+111421,Châteauneuf-du-Pape,14.5,1,5,2,22431,1216
+111422,Pauillac (Grand Cru Classé),12.8,1,4,3,29248,1396
+111429,Saint-Estèphe (Grand Cru Classé),12.8,1,4,3,30985,1433
+111431,Saint-Julien (Grand Cru Classé),14.0,1,4,3,31225,1437
+111433,Saint-Julien (Grand Cru Classé),13.5,1,4,3,31192,1437
+111434,Saint-Julien (Grand Cru Classé),13.0,1,4,3,31213,1437
+111445,Bourgogne Couvent des Jacobins,12.5,1,2,3,18600,1153
+111448,Brut Vintage Champagne (Extra Cuvée de Réserve),12.5,4,3,3,21702,1188
+111454,Rosé,13.0,3,3,3,30896,1474
+111455,Côtes-du-Rhône Blanc,13.0,2,4,3,24618,1276
+111457,Châteauneuf-du-Pape,14.5,1,5,2,22392,1216
+111458,Saint-Estèphe (Grand Cru Classé),13.0,1,4,3,30965,1433
+111461,Brut (R de Ruinart) Champagne,12.0,4,3,3,20584,1188
+111466,Bourgogne Chardonnay,12.5,2,4,3,18600,1153
+111468,Blanc de Blancs Brut Champagne,12.5,4,3,3,20584,1188
+111471,Riesling Alsace,12.5,2,4,3,16268,1125
+111475,Saint-Émilion Grand Cru (Premier Grand Cru Classé),13.5,1,4,2,31874,1446
+111478,Sauternes (Premier Grand Cru Classé),13.5,5,4,3,32311,1455
+111479,Impérial Rosé Brut Champagne,12.0,4,3,3,22143,1188
+111484,Royal Brut Champagne,12.5,4,3,3,21599,1188
+111495,Pauillac (Grand Cru Classé),12.5,1,4,3,29246,1396
+111503,Blanc,13.0,2,4,3,30896,1421
+111516,Haut-Médoc (Grand Cru Classé),13.8,1,4,3,25367,1311
+111521,Grand Vintage Brut Champagne,12.5,4,3,3,22143,1188
+111524,Bordeaux Supérieur,12.5,1,4,3,18424,1151
+111538,Grand Terroir Tautavel Grenache-Syrah-Carignan,15.0,1,4,3,22910,1328
+111544,Dom Ruinart Blanc de Blancs Brut Champagne,12.5,4,3,3,20584,1188
+111558,Cuvée Réservée Châteauneuf-du-Pape Rouge,14.0,1,5,2,22563,1216
+111587,Haut-Médoc (Grand Cru Classé),12.8,1,4,3,25375,1311
+111590,Pessac-Léognan,13.0,1,4,3,29751,1400
+111621,Pouilly-Fumé,12.5,2,4,3,30167,1408
+111624,Chablis,12.5,2,4,3,20538,1175
+111641,Pinot Noir,12.5,1,4,3,26912,1328
+111645,Haut-Médoc,12.5,1,4,3,25320,1311
+111648,Sancerre Les Baronnes Blanc,12.9,2,4,3,31938,1448
+111657,Esprit Méditerranée Rosé,12.5,3,4,3,24312,1389
+111667,Saint-Émilion Grand Cru (Premier Grand Cru Classé),13.5,1,4,2,31568,1446
+111679,Côtes De Gascogne Classic,10.5,2,3,2,24972,1265
+111687,Emilien,13.0,1,4,3,24789,1262
+111692,Beaujolais,12.5,1,3,3,18600,1136
+111713,Corton-Charlemagne Grand Cru,13.0,2,4,2,22805,1233
+111715,Bourgogne Pinot Noir (Vieilles Vignes),12.5,1,2,3,18588,1153
+111729,Saint-Estèphe,13.0,1,4,3,31031,1433
+111740,Petit Chablis,12.0,2,4,3,20538,1401
+111755,Cahors Malbec,13.5,1,5,3,19987,1169
+111763,Bourgogne Chardonnay,13.0,2,4,3,22801,1153
+111765,Bordeaux Rouge,12.0,1,4,3,17848,1149
+111773,Lacoste Borie Pauillac,13.0,1,4,3,29282,1396
+111792,Sancerre Rouge Les Baronnes,13.0,1,3,3,31938,1448
+111803,Pouilly-Fuissé,13.0,2,3,2,22801,1407
+111829,Bordeaux,13.0,1,4,3,17657,1149
+111834,Chablis 'Champs Royaux',12.8,2,4,3,20538,1175
+111845,Côtes de Bourg,14.2,1,4,3,24012,1263
+111872,Bourgogne Pinot Noir (La Vignée),12.5,1,2,3,19049,1153
+111907,Malbec,13.5,1,5,3,33661,2066
+111927,Rare Vintage Brut Champagne,12.0,4,3,3,21922,1188
+111932,Margaux (Grand Cru Classé),14.0,1,4,3,27980,1342
+111951,Bordeaux,14.5,1,4,3,17137,1149
+111961,Saint-Émilion Grand Cru,13.8,1,4,2,31586,1446
+111967,Saint-Émilion Grand Cru (Grand Cru Classé),13.0,1,4,2,31810,1446
+111973,Bourgogne Cuvée Latour,13.0,1,2,3,22801,1153
+111987,Margaux du Château Margaux,14.0,1,4,3,27963,1342
+112001,Grande Réserve Sancerre Blanc,13.2,2,4,3,31938,1448
+112010,Bordeaux Supérieur,13.8,1,4,3,18543,1151
+112028,Brut Nature Silver Champagne Grand Cru 'Bouzy',12.0,4,3,3,22184,1193
+112039,Saint-Émilion Grand Cru,14.3,1,4,2,31560,1446
+112084,Oenothèque Brut Champagne,12.5,4,3,3,21604,1188
+112089,Graves,13.5,1,4,3,25094,1306
+112094,Margaux (Grand Cru Classé),13.5,1,4,3,28015,1342
+112125,Moulis-en-Médoc,12.5,1,4,3,28392,1368
+112149,Bordeaux Sauvignon Blanc,12.5,2,3,3,17848,1149
+112171,Sancerre Blanc,12.5,2,4,3,31989,1448
+112185,Rosé,13.5,3,4,3,33853,1474
+112201,Sauvignon de Seguin Bordeaux,12.0,2,3,3,18424,1149
+112229,Saint-Émilion Grand Cru (Grand Cru Classé),13.5,1,4,2,31836,1446
+112237,Saint-Émilion Grand Cru (Grand Cru Classé),13.5,1,4,2,31678,1446
+112243,Saint-Émilion Grand Cru,13.0,1,4,2,31887,1446
+112247,Fronsac,15.0,1,3,2,24844,1292
+112251,Parfums de Vigne Bourgogne Chardonnay,12.8,2,4,3,18647,1153
+112255,Bourgogne Chardonnay,13.0,2,4,3,23279,1153
+112341,L'Abeille de Fieuzal Pessac-Léognan,13.0,1,4,3,29871,1400
+112353,Saint-Émilion Grand Cru,13.0,1,4,2,31729,1446
+112381,Margaux,12.5,1,4,3,27969,1342
+112454,Pomerol,13.0,1,4,2,29914,1404
+112483,Bordeaux,13.0,1,4,3,18235,1149
+112511,Pomerol,13.5,1,4,2,29934,1404
+112526,Saint-Émilion Grand Cru,14.5,1,4,2,31574,1446
+112578,Gevrey-Chambertin,13.0,1,3,3,24990,1298
+112582,Nocturne Champagne (Sec),12.5,4,3,3,21280,1188
+112592,Saint-Émilion Grand Cru,12.8,1,4,2,31537,1446
+112596,Saint-Émilion Grand Cru,13.0,1,4,2,31633,1446
+112616,Les Cédres Châteauneuf-du-Pape,14.5,1,5,2,25054,1216
+112641,Crémant de Bourgogne Brut,12.5,4,2,3,18647,1250
+112664,Meursault Blanc,12.9,2,4,2,23420,1349
+112689,Pessac-Léognan,12.0,1,4,3,29764,1400
+112695,Saint-Émilion Grand Cru (Grand Cru Classé),14.0,1,4,2,31737,1446
+112711,Sancerre La Bourgeoise Blanc,13.5,2,4,3,31938,1448
+112716,Les Menuts Saint-Émilion Grand Cru,12.5,1,4,2,31572,1446
+112727,Vacqueyras,14.0,1,4,3,24507,1468
+112732,Bourgogne Pinot Noir,12.5,1,2,3,17017,1153
+112756,Chardonnay Bourgogne Les Ursulines,12.5,2,4,3,18693,1153
+112777,Chablis Cellier de La Sablière,12.5,2,4,3,18600,1175
+112790,Châteauneuf-du-Pape,14.0,1,5,2,22565,1216
+112809,Réserve Spéciale Pauillac,12.5,1,4,3,17717,1396
+112830,Rosé,12.0,3,3,2,33752,1474
+112834,Dom Ruinart Rosé Brut Champagne,12.5,4,3,3,20584,1188
+112861,Menetou-Salon Morogues Blanc,13.3,2,4,3,33395,1467
+112862,Corbières,14.0,1,4,3,22706,1228
+112872,Crémant de Bourgogne Brut,12.0,4,2,3,19257,1250
+112875,Vieille Vigne Gevrey-Chambertin,13.0,1,3,2,24980,1298
+112879,Chablis,12.5,2,4,3,20328,1175
+112923,La Reine Des Bois Châteauneuf-du-Pape,14.5,1,5,2,22379,1216
+112948,Francs-Côtes de Bordeaux,14.5,1,4,3,27041,1291
+112950,Meursault Clos de la Barre,13.0,2,4,2,28145,1349
+112963,Sauvignon Blanc Bordeaux,12.0,2,3,3,17832,1149
+112987,Gevrey-Chambertin,13.0,1,3,3,24986,1298
+113011,Bourgogne Chardonnay,13.0,2,4,3,17017,1153
+113050,Mercurey Premier Cru 'Clos Tonnerre',12.5,1,2,3,28120,1347
+113095,Morgon,12.5,1,3,3,28343,1366
+113101,Viognier Secret de Famille,12.5,2,4,3,25054,1421
+113116,Caroline Graves,13.5,2,3,3,25088,1306
+113142,Bourgogne Pinot Noir,12.0,1,2,3,19082,1153
+113154,Bourgogne Gamay,13.0,1,2,3,22801,1153
+113191,Caillou Blanc,13.7,2,3,3,18208,1149
+113193,Listrac-Médoc,13.5,1,4,3,27222,1334
+113211,Beaujolais Gamay,13.0,1,3,3,16691,1136
+113226,Les Monts Damnés Sancerre,12.0,2,4,3,33467,1448
+113240,Chambolle-Musigny,12.5,1,3,3,23755,1184
+113265,Saint-Émilion Grand Cru,12.0,1,4,2,31861,1446
+113284,La Reserve d'Angludet,13.0,1,4,3,28035,1342
+113288,Brut Champagne,12.5,4,3,3,20622,1188
+113321,V.O. Version Originale Blanc de Blancs Extra Brut Champagne Grand Cru,12.0,4,3,3,21583,1188
+113332,Royal Brut Champagne Grand Cru,12.5,4,3,3,21599,1188
+113344,Pure Extra Brut Champagne,12.5,4,3,3,21702,1188
+113421,Chablis,12.5,2,4,3,20440,1175
+113452,Les Boucauds Sancerre Blanc,13.0,2,4,3,31935,1448
+113462,Bourgogne Aligoté,13.0,2,4,3,17017,1154
+113489,Blanc de Blancs Brut Champagne Grand Cru 'Chouilly',12.0,4,3,3,20785,1188
+113600,Blanc de Blancs Brut Champagne,12.0,4,3,3,20570,1188
+113638,Grande Réserve Côtes de Provence Rosé,12.5,3,4,3,30341,1266
+113690,Crémant d'Alsace Cuvée Julien Brut,12.5,4,2,3,16415,1248
+113695,Sauternes (Grand Cru Classé),14.0,5,4,3,32291,1455
+113730,Pommard Premier Cru 'Grand Clos des Épenots',13.0,1,3,2,23305,1405
+113754,Tempranillo,13.5,1,4,2,33661,1967
+113811,Crémant de Loire Brut,12.0,4,2,3,27648,1252
+113913,Blanc de Blancs Extra Brut Champagne Grand Cru 'Le Mesnil-sur-Oger',12.0,4,3,3,22200,1196
+113916,Crémant de Loire Brut,12.5,4,2,3,27762,1252
+114025,Rosé,12.5,3,3,2,33903,1474
+114265,Côtes de Provence Rosé,13.5,3,4,3,30248,1266
+114325,Côtes de Provence Rosé,13.0,3,4,3,24227,1266
+114606,Blanc de Blancs Millésime Prestige Brut Champagne Grand Cru,12.5,4,3,3,21290,1188
+114717,Coteaux d'Aix-en-Provence Rosé,13.0,3,2,2,30338,1411
+114932,Organic Monastrell,13.5,1,5,3,33661,1985
+114973,Sancerre Les Baronnes Rosé,13.5,3,3,2,31938,1448
+115171,Pessac-Léognan,13.0,1,4,3,29759,1400
+115267,Brut (Blanc de Blancs),10.5,4,2,2,33802,1474
+115365,Les Folies de la Marquetterie Champagne,12.5,4,3,3,21280,1188
+115628,Grande Reserve Brut Champagne Premier Cru,12.5,4,3,3,20761,1188
+115984,Comtesse Marie de France Brut Millésime Champagne Grand Cru 'Bouzy',12.5,4,3,3,22124,1193
+116149,Grande Réserve Brut Champagne,11.0,4,3,3,21760,1188
+116213,Grande Cuvée Brut Rosé,11.5,4,3,2,33881,1474
+116266,Blason de France Champagne,12.0,4,3,3,21563,1188
+116418,Château Chemin Royal Moulis-en-Médoc,13.8,1,4,3,27242,1368
+116893,Grande Cuvée Blanc de Blancs Brut,11.5,4,3,2,33881,1474
+116995,Cuvée des Grands Vintages Brut Champagne Grand Cru 'Ambonnay',12.0,4,3,3,22169,1190
+117009,Santenay Rouge,13.0,1,2,3,22801,1449
+118457,Fleurie La Madone,13.0,1,2,3,18588,1289
+118927,Nuits-St-Georges Les Plateaux,13.0,1,3,3,25086,1392
+119803,Cinsault-Grenache Rosé,12.0,3,3,3,33734,1474
+120737,Les Dessous des Dentelles,14.3,1,4,2,32987,1302
+122630,Sine Nomine,15.0,1,4,3,18214,2006
+125387,Libre Edición Especial,14.0,1,5,3,16283,2037
+125678,Les Fuées Chambolle-Musigny 1er Cru,13.0,1,4,3,19028,1184
+126285,Lou Mansengou,12.0,5,3,3,32413,1322
+126510,Cabardès Rosé,13.0,3,3,3,19874,1165
+127658,Marc d'Alsace Riesling,48.0,5,3,2,15877,1125
+128544,Chablis 1er Cru 'Montmains',12.5,2,3,3,20243,1178
+131656,Bobal Tierra de Castilla,13.5,1,4,3,28203,1967
+131787,Alegria de Hérencia del Padrí Priorat,15.0,1,4,3,17091,2006
+132977,Bandol Cuvée Spéciale La Louffe,14.0,1,4,2,16512,1133
+133447,Meursault 1er Cru 'La Pièce Sous Le Bois',13.5,2,4,2,23149,1351
+135859,Barbaresco,14.0,1,4,3,41113,1510
+135860,Brunello di Montalcino,14.5,1,5,3,49416,1531
+135861,Pinot Grigio Valdadige,12.5,2,3,3,51695,1708
+135867,Le Difese,13.0,1,3,2,49339,1699
+135871,Barolo Marcenasco,14.0,1,5,3,41219,1519
+135885,Barolo (Tradizione),14.0,1,5,3,41309,1519
+135893,12 e Mezzo Primitivo del Salento,12.5,1,4,3,46304,1678
+135922,Rosso,12.5,1,3,2,48714,1699
+135962,Tupungato Passo Doble Malbec-Corvina,14.5,1,4,3,40510,2070
+135982,Brunello di Montalcino,14.0,1,5,3,49126,1531
+136054,Perlé,12.5,4,3,2,50269,1703
+136136,Kurni Marche,15.0,1,3,3,44842,1627
+136180,Prosecco,11.0,4,1,3,41958,1659
+136233,Toscana,12.5,1,3,2,48671,1699
+136246,Pinot Grigio Alto Adige,12.5,2,3,3,51695,1690
+136522,Barbera d'Alba Superiore,13.0,1,3,3,41239,1511
+136646,Valpolicella Classico Superiore,14.0,1,2,3,51124,1714
+136668,Rosso di Valtellina,13.2,1,5,3,44488,1718
+136825,Gaia & Rey Langhe,14.0,2,3,3,44164,1618
+136932,Chianti Riserva,12.5,1,3,3,46857,1542
+136982,Prosecco,11.5,4,1,3,41029,1659
+137010,Brunello di Montalcino,14.1,1,5,3,41519,1531
+137015,Valpolicella Ripasso Superiore,13.5,1,4,3,50583,1715
+137060,Susumaniello,13.5,1,4,3,46600,1678
+137062,Gavi,12.0,2,2,3,43989,1602
+137103,Pinot Grigio,13.0,2,3,3,43568,1598
+137143,Brunello di Montalcino,14.5,1,5,3,48876,1531
+137224,Brunello di Montalcino,14.2,1,5,3,49970,1531
+137457,Serra Dei Turchi Barolo,14.5,1,4,3,45249,1519
+137763,Barbera,13.0,1,3,3,45249,1655
+137893,Graticciaia,14.5,1,4,3,47012,1662
+137905,Chianti Colli Senesi,12.5,1,3,3,41998,1545
+137907,Valdobbiadene Prosecco Superiore Extra Dry,11.0,4,1,3,46415,1568
+137981,Lambrusco dell'Emilia Rosso,8.0,4,3,2,42862,1582
+138040,Chianti,12.0,1,3,3,49756,1542
+138069,Amarone della Valpolicella,16.5,1,5,3,50902,1505
+138071,Toscana Casamatta Bianco,12.0,2,3,3,49726,1699
+138096,Domiziano Negroamaro del Salento,12.5,1,4,3,41441,1662
+138128,Angelin Langhe Nebbiolo,13.5,1,3,3,45316,1618
+138299,Rosato,12.0,3,2,2,46088,1655
+138409,Arborina Barolo,14.5,1,5,3,41273,1655
+138475,Duemani Cabernet Franc,14.5,1,3,2,42716,1574
+138479,Winemaker's Collection Montepulciano d'Abruzzo,13.0,1,3,3,50915,1639
+138538,Piodilei Chardonnay,14.0,2,3,3,46084,1618
+138622,Ricarico Prestige Cuvée,14.5,1,4,2,45429,1662
+138625,Nicolon Barbera d'Alba,14.5,1,3,3,45316,1511
+138765,Langhe Nebbiolo,14.0,1,4,3,45965,1618
+138829,Vin Santo del Chianti Classico,15.0,5,3,3,49419,3005
+139162,Organico Sangiovese,13.0,1,3,3,43045,1676
+139210,Al Poggio Chardonnay di Toscana,13.0,2,3,3,42434,1699
+139340,Moncalvina Moscato d'Asti 'Canelli',5.0,4,2,3,45257,1641
+139384,Barolo Arborina,14.2,1,5,3,45771,1519
+139388,Gabbiano Pinot Grigio,12.0,2,3,2,51161,1736
+139618,Chianti Colli Senesi,12.0,1,3,3,49723,1545
+139693,Zinfandel,14.0,1,4,2,46686,1662
+139770,Pinot Noir,12.0,1,3,3,52509,1736
+139913,Valpolicella Ripasso,13.5,1,4,3,52355,1715
+140010,Rosso di Montalcino,14.0,1,3,2,49970,1674
+140114,La Primavera in Rosa Rosé Italia,13.0,3,3,2,46629,1734
+140140,Barolo,14.0,1,5,3,46057,1519
+140147,Orvieto Classico,12.5,2,3,3,49058,1651
+140262,Müller Thurgau Alto Adige,13.0,2,3,2,47681,1690
+140273,Vigneto Bellavista Chianti Classico,13.0,1,3,3,42434,1699
+140410,Collection Merlot,12.5,1,4,3,50058,1701
+140422,Greco di Tufo,13.0,2,3,3,41756,1606
+140694,Lodai Maremma Toscana,13.5,1,3,2,49325,1628
+140773,Moscato d'Asti,5.5,4,2,3,45426,1641
+140817,Barbera d'Asti,12.5,1,3,3,45304,1512
+140819,Cannubi San Lorenzo-Ravera Barolo,14.5,1,5,3,41244,1519
+140831,Barbera d’Alba Pilade,14.0,1,3,3,45965,1511
+140962,Riserva Prêt-A-Porter,15.5,1,5,2,40883,1505
+141176,Etna Santo Spirito Bianco,13.2,2,3,3,43209,1584
+141193,Brachetto d'Acqui,6.0,4,3,3,40964,1528
+141236,Messiio Maremma Toscana,13.5,1,3,2,49325,1628
+141426,Lagrein,13.0,1,4,3,50113,1690
+141462,Toscana Gratius,13.5,1,3,2,42108,1699
+141586,Nobbio Barbera d'Asti,15.0,1,3,3,46132,1512
+141799,Barolo Vigneto Cannubi,14.0,1,5,3,41308,1519
+141805,Perlé Nero,12.5,4,3,2,50269,1703
+141829,Langhe Rosato,12.5,3,3,2,46097,1618
+141869,101 Moscato d'Asti,5.5,4,2,3,45778,1641
+141879,Barbera D'Alba,14.0,1,3,3,45334,1511
+141987,Toscana Il Volano,13.5,1,3,2,42108,1699
+142170,Torgaio Toscana,13.0,1,3,2,41958,1699
+142211,Primitivo Di Manduria,14.0,1,4,3,46987,1658
+142639,Dolcetto d'Alba,13.5,1,4,3,41207,1579
+142692,Cerequio Barolo,13.7,1,5,3,45607,1519
+142747,Gavi di Gavi,12.5,2,2,3,46033,1602
+142875,Vin Santo del Chianti Classico S. Niccolò,16.0,5,3,3,42444,3005
+142957,D'Annona Barbera d'Asti Superiore,13.0,1,3,3,46249,1512
+142975,Chianti,12.0,1,3,3,41950,1542
+143050,Gran Maestro Amarone della Valpolicella,15.0,1,5,3,46654,1505
+143080,Amarone della Valpolicella Classico,15.8,1,5,3,51970,1506
+143130,Costa Russi Grappa di Nebbiolo,45.0,5,5,3,44164,3214
+143158,Dolcetto D'Alba,13.5,1,4,3,44147,1579
+143169,Chianti Classico,12.5,1,3,3,49058,1543
+143191,Vitali Trebbiano d'Abruzzo,12.7,2,3,3,40751,1501
+143222,Dulcis Moscato d'Asti,5.5,5,2,2,45249,1641
+143287,Orvieto,12.5,2,3,3,41959,1651
+143348,Malvasia Nera,12.0,1,4,3,46647,1678
+143618,Chianti Classico Riserva,13.0,1,3,3,42399,1543
+143800,Narin Barbaresco,14.5,1,4,3,45329,1510
+143806,Solatio Moscato d'Asti,5.0,2,2,2,41092,1508
+143949,Gran Reserva,13.0,1,4,3,42342,2033
+143965,Barolo Bussia,14.0,1,5,3,46193,1519
+144009,Sarrocco Dolcetto d'Alba,12.5,1,4,3,41133,1579
+144081,Barbera d'Alba,15.0,1,3,2,45828,1511
+144083,Traminer,12.5,2,3,3,43523,1598
+144337,Tre Soli Tre Grappa Invecchiata,43.0,5,4,3,45593,1655
+144468,San Bastian Barbera d'Asti,14.0,1,3,3,41002,1512
+144632,Recioto della Valpolicella Classico,12.5,5,3,3,50478,3173
+144668,Bricco Francesco Rocche dell'Annunziata Barolo,14.2,1,5,3,41299,1519
+144734,Naunda Barbera d'Alba Superiore,14.5,1,3,3,45289,1511
+144931,Langhe Rosso Ultimi Grappoli,16.0,1,4,3,45965,1618
+145359,Tre Torri Carignano del Sulcis,13.0,3,3,3,47497,1536
+146235,Cortese Piemonte,11.5,2,3,3,46248,1655
+146904,Pinot Grigio,12.0,2,3,3,43518,1598
+146941,Friulano,13.0,2,3,3,43482,1598
+147123,Belcaro Vin Santo del Chianti Classico,15.5,5,3,3,42419,3005
+147453,Bardolino Classico,12.5,1,4,2,51195,1518
+147976,Pinot Grigio,12.0,2,3,3,51167,1721
+148270,Blu Prosecco Extra Dry,12.5,4,1,3,52329,1659
+148530,Fiano di Avellino,13.0,2,3,3,41676,1589
+148642,Malvasia,14.0,2,3,3,43516,1567
+149121,Müller Thurgau Valle d'Aosta,12.5,2,2,3,50447,1710
+149375,Langhe Chardonnay,12.5,2,3,3,46279,1618
+149407,Langhe Chardonnay,13.0,2,3,2,44116,1618
+149550,Barolo Riserva,14.5,1,4,3,44266,1519
+149765,Barolo,14.0,1,4,3,45715,1519
+150384,Cerequio Barolo,14.0,1,4,3,45273,1519
+150820,Fiano del Salento,12.5,2,3,3,47347,1678
+151255,Talento Trento Brut,12.6,4,3,2,50272,1703
+151328,Fragolino,8.0,4,2,3,42830,1582
+151878,Grappa Riserva Botti da Sherry,44.0,5,5,3,46037,1655
+152976,Rive di Refrontolo Valdobbiadene Prosecco Superiore Brut Nature,11.5,4,1,3,52075,3721
+153536,Grappa di Amarone della Valpolicella,43.0,5,4,3,44939,1713
+153611,Manzoni Moscato Spumante,11.5,4,2,3,51547,1721
+153810,Grappa Cru Monovitigno Picolit,50.0,5,3,3,43381,1598
+154979,Fior di Vigna Dolce Rosso,4.0,5,4,1,44162,1618
+155174,The Merchant's Rosé,11.5,3,4,3,67224,1966
+155183,Kit's Coty Bacchus,13.0,2,3,2,67209,2304
+155249,Garnacha Rosé,13.0,3,4,3,67178,1963
+155266,Tempranillo-Garnacha Rosé,11.5,3,4,2,67178,2037
+155308,Rioja Gran Reserva 904,13.2,1,4,3,37809,2014
+155334,Camins del Priorat,14.5,1,4,3,36760,2006
+155339,Gran Coronas Reserva Cabernet Sauvignon,14.0,1,4,3,34043,2005
+155350,Crianza,14.0,1,4,3,37183,2014
+155353,Pétalos,14.0,1,3,3,34648,1959
+155368,Cosecha,15.0,1,5,3,36936,2010
+155375,Cava Gran Reserva Brut Nature Reserva de la Familia,12.0,4,2,3,36672,2005
+155438,Priorat,14.5,1,4,3,36797,2006
+155443,Cava Clasico Brut,11.5,4,2,3,35634,1969
+155565,Cava Brut,11.5,4,2,3,34224,1969
+155618,Muga Rosado,13.5,3,4,2,37496,2014
+155623,Tempranillo,12.5,1,4,2,34856,2033
+155628,Don PX Gran Reserva,17.0,5,4,1,36405,1994
+155647,Rioja Rosado,13.5,3,4,1,37886,2014
+155674,Rioja Reserva,12.5,1,4,3,37391,2014
+155807,Rioja Rosado,13.0,3,3,3,37188,2014
+156277,Rioja Tempranillo,13.5,1,4,3,37886,2014
+156732,Rioja Gran Reserva,12.8,1,4,3,37391,2014
+157189,Crianza,13.5,1,4,3,37479,2014
+157220,Carrasviñas Rueda Verdejo,13.0,2,3,3,38071,2017
+157307,Chianti,12.5,1,3,3,34176,1542
+157620,Christina Ribera del Duero,14.5,1,5,3,37025,2010
+157643,Tempranillo Rosé,14.0,3,3,2,37874,2014
+157974,Rioja Old Vines Tempranillo,12.5,1,4,3,37273,2014
+158087,Rosado,11.5,3,4,2,34856,1967
+158353,Rioja Reserva,14.0,1,4,3,37481,2014
+158374,Reserva,13.5,1,4,3,37853,2014
+158901,Blanco,11.0,2,2,2,34856,2033
+159125,Tempranillo Reserva,14.0,1,4,3,37241,2014
+159275,Pedro Ximénez Murillo Selección del Centenario,17.0,5,4,2,36069,1984
+159758,A Galet Rosado,12.5,3,2,2,37754,2014
+159763,W Traminer,13.0,2,3,2,36116,2630
+160065,Reserva Tinto,13.5,1,4,3,38588,1032
+160271,Rare Cream Sherry Superior (Solera Reserva),20.0,6,4,3,36069,3707
+160277,Fino Eléctrico 3 Fases,15.0,5,4,2,36405,1994
+160710,Cabernet Sauvignon Rosado,12.5,3,2,2,36521,1999
+161471,Oloroso V.O.R.S,21.0,6,4,3,36049,1984
+162391,La Tinaja de Aranzazu,13.0,2,3,2,35956,2018
+162417,Unplugged Rkatsiteli Orange,13.5,2,3,3,52562,2567
+162455,Muscat White South Coast (Мускат Белый Южнобережный),16.0,5,3,3,52590,2567
+162456,Grande Reserve Cabernet-Merlot,14.0,1,3,2,52598,2568
+162457,Reserve Saperavi,13.0,1,3,1,52598,2568
+162467,Uppa Red Pinot Noir,14.0,1,2,2,52576,2567
+162497,Cabernet Sauvignon,14.5,1,4,3,40375,2282
+162502,Montes Alpha Cabernet Sauvignon,14.0,1,4,3,39051,2268
+162505,Reservado Carmenère,12.5,1,4,3,39456,2285
+162506,Carmenère,14.0,1,4,3,39248,2267
+162507,Coyam,14.0,1,4,3,40381,2268
+162514,Adobe Carmenère (Reserva),13.7,1,4,3,40381,2268
+162519,Reserva Cabernet Sauvignon (Classic),14.0,1,4,3,39051,2268
+162525,Carmenère,14.5,1,4,3,39051,2268
+162530,Cabernet Sauvignon,14.5,1,4,3,39874,2268
+162611,Clasico Carmenère,13.0,1,4,3,40100,2276
+162684,Carmenère,14.0,1,4,3,39780,2268
+162721,Espiritu de Apalta,13.5,1,3,3,39723,2268
+162738,Merlot (U),12.5,1,4,3,39380,2283
+162743,Cabernet Sauvignon,13.8,1,4,3,40307,2278
+162748,Carmenère,12.9,1,4,3,39236,2267
+162756,Hemisferio Reserva Carmenère,13.0,1,4,3,39549,2267
+162764,Carmenère,13.0,1,4,3,40307,2267
+162824,Etnia Sauvignon Blanc,13.0,2,3,3,39673,2267
+162841,Orzada Carignan,15.0,1,4,2,39507,2267
+162894,Carmenérè,13.0,1,4,3,10215,2267
+162912,Sauvignon Blanc,13.0,2,3,3,39874,2268
+162948,Cabernet Sauvignon,13.5,1,4,3,39585,2267
+163025,Cabernet Sauvignon,13.4,1,4,3,39596,2267
+163039,Carmenère,13.5,1,4,3,39527,2267
+163101,Las Mulas Reserva Sauvignon Blanc,13.0,2,3,3,39549,2267
+163162,Reserva Cabernet Sauvignon,12.5,1,4,3,39808,2268
+163177,Wetland Reserva Carmenère,13.0,1,4,3,39467,2267
+163305,Semi Sweet Cabernet Sauvignon,12.0,1,4,3,39445,2267
+163306,Tradition Réserve Cabernet Sauvignon,13.5,1,4,3,39008,2265
+163315,Sauvignon Blanc,13.0,2,3,3,39236,2267
+163332,Reserva de Pueblo,12.0,1,3,1,39549,2267
+163343,Santa Digna Estelado Sparkling Rosé,12.0,4,4,2,39549,2267
+163359,Carmenere,13.0,1,4,3,39488,2267
+163365,Dias de Verano Reserva Muscat,12.0,2,3,2,39549,2267
+163383,Carmenere,12.5,1,4,3,39445,2267
+163388,Nimbus Estate Sauvignon Blanc,12.5,2,3,3,39050,2266
+163465,Tradition Réserve Carmenère,13.5,1,4,3,39008,2265
+163490,La Joya Reserve Cabernet Sauvignon,14.0,1,4,3,39771,2268
+163493,Carmenère Gran Reserva,14.5,1,4,3,39997,2270
+163544,Merlot,13.0,1,4,3,39236,2267
+163557,Origen Gran Reserva Carmenère,14.2,1,4,3,40218,2276
+163633,Shiraz,12.5,1,4,3,39585,2267
+163659,Rosé,13.5,3,3,2,39874,2268
+163663,Syrah,13.5,1,4,3,39783,2268
+163695,Cordillera Reserva Especial Chardonnay,14.0,2,4,3,39549,2267
+163835,Estate Reserva Chardonnay,13.5,2,4,3,40010,2276
+163839,Gran Reserva Pinot Noir,13.2,1,3,3,39047,2267
+163842,Merlot,13.5,1,4,3,40381,2283
+163876,El Espiritu de Cachapoal Brut,13.0,4,2,3,39008,2265
+163877,Carmenère,13.0,1,4,3,40332,2278
+163888,Hemisferio Reserva Sauvignon Blanc,12.5,2,3,3,39549,2267
+163965,Reserva Merlot,12.5,1,4,3,39808,2268
+164005,La Joya Reserve Carmenère,14.0,1,4,3,39771,2268
+164220,Late Harvest Moscatel,12.0,5,3,3,39015,2273
+164250,Guardian Reserva Chardonnay,12.5,2,4,3,39673,2266
+164257,Sauvignon Blanc,13.0,2,3,3,39621,2267
+164279,Montes Alpha Special Cuvée Sauvignon Blanc,13.5,2,3,3,39051,2272
+164440,Cinsault Rosé,12.0,3,3,2,39248,2267
+164489,Gran Reserva Sauvignon Blanc,12.5,2,3,3,39445,2269
+164598,Etnia Rosé,13.0,3,3,3,39673,2267
+164604,Cellar Selection Sauvignon Blanc,13.5,2,3,3,39599,2283
+164927,Rayuela Reserva Malbec Rosé,12.0,3,2,2,39744,2268
+164945,Late Harvest Sauvignon Blanc,12.5,5,3,3,40381,2266
+164987,Merlot Rosé,12.0,3,4,2,39494,2267
+165143,Cabernet Franc,14.3,1,3,2,40284,2278
+165555,Cabernet Sauvignon Rosé,13.0,3,3,2,39754,2268
+165674,Estelado Brut Rosé,12.0,4,3,2,39549,2267
+166040,Fina Reserva Syrah-Cabernet Sauvignon Rosé,12.0,3,3,3,39760,2268
+166134,Cabernet Sauvignon Rosé,12.0,3,3,2,39599,2283
+167079,Reserva Cabernet Franc,14.0,1,3,2,70347,2576
+167114,Tannat,12.2,1,4,3,70298,2570
+167124,Puerto Carmelo Tannat,12.5,1,4,3,70326,2571
+167154,Reserve Tannat,14.5,1,4,3,70288,2570
+167186,Tannat,12.5,1,4,3,70337,2574
+167190,Reserve Cabernet Sauvignon,12.5,1,5,3,70338,2574
+167263,Cabernet Sauvignon,13.0,1,4,3,10215,2581
+167265,Purus Tannat Roble,12.3,1,4,3,70269,2570
+167418,Malbec,13.5,1,5,3,60469,2058
+167419,Malbec,13.5,1,5,3,60888,2058
+167425,Malbec,13.9,1,5,3,60994,2058
+167429,Malbec,14.5,1,5,3,61307,2058
+167431,Trumpeter Malbec,13.7,1,5,3,60581,2058
+167433,De Sangre Lujan de Cuyo Malbec,14.0,1,5,3,60479,2056
+167439,High Altitude Vineyards Malbec,13.5,1,5,3,60974,2058
+167440,Oak Cask Malbec,14.0,1,5,3,60494,2058
+167443,Cabernet Franc,13.9,1,3,2,61307,2058
+167445,Malbec,14.5,1,5,3,60505,2058
+167446,Golden Reserve Malbec,14.5,1,5,3,60999,2056
+167449,Malbec,13.5,1,5,3,60581,2058
+167450,Benjamin Malbec,12.5,1,5,3,60459,2058
+167458,Cocodrilo Red Blend,14.5,1,4,3,60548,2058
+167460,Reserva Malbec,14.1,1,5,3,60974,2058
+167462,Chardonnay,14.0,2,4,3,61307,2058
+167463,Altos del Plata Malbec,14.0,1,5,3,60974,2058
+167464,Los Cardos Malbec,14.5,1,4,3,60992,2058
+167470,Malbec (Clásico),13.7,1,5,3,60909,2058
+167475,Don David Reserve Malbec,14.0,1,5,3,60392,2047
+167487,UNO Malbec,13.9,1,5,3,60569,2058
+167530,Chardonnay,13.5,2,4,3,60888,2058
+167592,Alma Mora Cabernet Sauvignon,13.5,1,4,3,61627,2066
+167614,Red Blend,13.5,1,4,2,60888,2058
+167634,Rosé of Malbec,13.8,3,4,2,60706,2058
+167767,Finca Los Nobles Field Blend Malbec-Verdot,14.5,1,4,3,60479,2056
+167810,Reserva Malbec,14.0,1,5,3,60878,2058
+167869,Rosé de Malbec,13.8,3,3,1,60994,2058
+168002,Malbec,13.5,1,5,3,61700,2058
+168128,Brut Rosé,12.0,4,4,2,61293,2058
+168170,Malbec Rosé,13.5,3,3,1,60888,2058
+168182,Gran Malbec,15.0,1,5,2,61449,2056
+168186,Las Moras Chardonnay,13.3,2,4,3,61627,2066
+168273,A Rosé Is A Rosé Is A Rosé,12.2,3,3,2,60479,2056
+168279,Extra Brut,12.2,4,3,2,61293,2058
+168284,Cuvée Réserve Brut,12.3,4,3,2,61669,2067
+168457,Extra Brut Cuvée Spéciale Baron B,12.5,4,3,2,61293,2058
+168694,Deseado,9.8,4,3,2,61553,2060
+168827,Extra Brut Pinot Noir-Chardonnay,12.5,4,4,2,61557,2060
+168898,Brut Rosé,9.5,4,3,2,60925,2058
+168970,Sauvignon Blanc,12.5,2,3,3,61695,2070
+169260,Malbec Rosé,12.5,3,3,2,61695,2070
+169311,Cuvée Nature,12.5,4,4,3,60522,2071
+169314,Don Nicanor Chardonnay-Viognier,14.1,2,3,2,60459,2058
+169379,Misterio Chardonnay,13.0,2,4,3,60878,2058
+169417,Chenin-Chardonnay Roca,11.9,2,3,2,61663,2067
+169463,Reserva Chardonnay,13.5,2,4,3,60517,2058
+170599,Late Harvest Viognier,11.5,5,3,1,61627,2066
+170982,The Chocolate Block,14.9,1,4,2,70653,2602
+170983,Rubicon,14.4,1,4,3,71057,2619
+170984,Kadette Cape Blend,14.0,1,4,3,70911,2619
+171001,Life from Stone Sauvignon Blanc,12.5,2,2,3,70862,2616
+171003,Shiraz-Merlot Special Reserve,15.0,1,3,2,71200,2627
+171062,21 Gables Chenin Blanc,14.6,2,4,3,70457,2619
+171246,Sauvignon Blanc Reserve Collection Elgin,13.9,2,2,3,70638,2600
+171256,Proprietor's Blend,14.5,1,4,2,70966,2619
+171266,Frans Malan Cape Blend,14.5,1,4,3,71130,2619
+171317,Cabernet Franc Rosé,13.0,3,3,2,70545,2619
+171369,Danger Point Colombard-Chardonnay,12.9,2,3,2,71739,2627
+171399,Sauvignon Blanc,12.5,2,2,3,70422,2616
+171438,Unwooded Pinot Noir,12.5,1,3,3,70677,2602
+171488,Pinotage Rosé Special Reserve,14.0,3,3,2,71200,2627
+171552,Neil's Pick Colombar,12.0,2,3,2,70422,2616
+171639,First Sighting Sauvignon Blanc,13.0,2,2,3,70445,2589
+171675,Chenin Blanc,12.5,2,4,3,70824,2613
+171934,Pierre Jourdan Brut,12.0,4,3,2,70677,2602
+172038,Gewürztraminer,11.8,2,3,2,71130,2619
+172065,Noble Late Harvest,10.0,5,3,3,71345,2619
+172117,Cabernet Sauvignon-Shiraz,13.0,1,4,3,71503,2627
+172209,Bush Vine Pinotage,14.6,1,4,3,71229,2620
+172220,Cabernet Sauvignon-Merlot,13.5,1,4,3,71204,2619
+172833,Special Late Harvest Gewürztraminer,12.0,5,4,3,70422,2616
+172861,Blush Syrah-Viognier,13.0,3,3,3,70428,3659
+173112,Rosé,11.0,3,3,2,70532,2589
+173232,Winemaker's Collection Blanc de Noir,12.5,3,3,2,71229,2620
+173289,Pinotage Rosé,12.5,3,4,2,71587,2627
+173331,Unwooded Chardonnay,13.3,2,3,2,70437,2627
+173413,Pinotage Rosé,15.0,3,4,2,71081,2619
+173765,Viognier Noble Late Harvest,10.2,5,3,1,70411,2586
+174121,White Muscadel Jerepigo,17.0,5,4,3,70436,2588
+174177,Koonunga Hill Shiraz-Cabernet,14.0,1,5,3,63066,2156
+174184,Grange,14.5,1,5,3,63066,2156
+174248,Art Series Chardonnay,13.5,2,4,3,63870,2132
+174274,Cabernet Sauvignon-Shiraz,13.5,1,5,2,64418,2156
+174323,Mill Cellars Shiraz,13.0,1,5,3,63875,2158
+174330,Red Blend (Shiraz-Cabernet Sauvignon),15.0,1,5,3,64906,2158
+174333,The Factor,14.0,1,5,3,63125,2097
+174372,Jammy Red Roo,12.0,1,5,3,64809,2158
+174403,Polish Hill Riesling,12.5,2,2,3,63257,2105
+174466,Sauvignon Blanc,10.5,2,3,3,64418,2156
+174509,Cabernet Sauvignon,14.0,1,4,3,63332,2107
+174544,Abednego Shiraz-Grenache-Mourvedre,14.5,1,4,3,62927,2097
+174545,E & E Black Pepper Shiraz,13.7,1,5,3,63074,2097
+174568,Wallcliffe Sauvignon Blanc-Sémillon,12.5,2,3,3,63746,2132
+174586,Sauvignon Blanc-Sémillon,13.5,2,4,3,63746,2132
+174651,Hand Picked Shiraz-Viognier,13.5,1,4,3,63051,2156
+174682,Wilyabrup Valley Cabernet Sauvignon-Merlot,13.5,1,4,3,63742,2132
+174689,Applejack Vineyard Pinot Noir,13.0,1,3,3,65129,2174
+174800,Single Vineyard Shiraz,14.2,1,5,3,63524,2122
+174867,Shiraz,15.0,1,5,3,63332,2107
+174901,Rocky Gully Riesling,13.0,2,2,3,63429,2112
+174906,Reserve Shiraz,14.0,1,5,3,64731,2158
+175454,The Visionary Cabernet Sauvignon,14.5,1,4,2,63253,2105
+175514,Cabernet Sauvignon,14.5,1,4,3,64021,2133
+175540,Chardonnay,14.0,2,4,3,63784,2132
+175542,Ferrous Pinot Noir,13.5,1,3,3,64038,2134
+175550,Estate Cabernet Sauvignon,13.9,1,4,3,65010,2159
+175682,Riesling,12.5,2,2,3,63273,2105
+175684,Verdelho,13.0,2,2,2,63645,2126
+175701,Dry Red No. 3,13.0,1,4,2,65231,2174
+175704,Sauvignon Blanc,12.5,2,3,3,64285,2145
+175754,Rocky Gully Cabernets,14.5,1,4,3,63429,2112
+175814,Bin 343 Cabernet Sauvignon-Shiraz,13.0,1,5,3,63875,2156
+175840,Australia Felix Sagrantino,14.0,1,4,2,63045,2713
+175908,Haven Pinot Noir,13.5,1,3,2,64038,2134
+176059,Shiraz Rosé,13.5,3,4,2,64782,2158
+176060,Australia Felix Chardonnay-Viognier,13.5,2,1,2,63045,2713
+176112,Harvest Diary Reserve Sémillon-Chardonnay,12.5,2,3,2,63495,2140
+176135,Burnside Vineyard Chardonnay,13.5,2,4,3,63852,2132
+176205,Pinot Grigio,12.0,2,3,3,64873,2158
+176251,Cane Cut,11.0,2,3,3,63774,2132
+176262,Lenswood Vineyard Chardonnay,13.5,2,4,3,62868,2094
+176380,Faultline Chardonnay,13.0,2,4,3,64038,2134
+176430,Marsanne-Roussanne,13.2,2,4,2,64347,2174
+176591,Chardonnay,13.5,2,4,3,63839,2132
+177418,The Riddle Shiraz Rosé,11.0,3,2,1,63875,2156
+178374,Shiraz Rosé,12.0,3,4,2,63968,2133
+178378,Blackwood Park Botrytis Riesling,10.5,5,2,3,63225,2104
+179012,Cabernet Sauvignon,14.8,1,5,2,56763,1848
+179016,ARTEMIS Cabernet Sauvignon,14.5,1,4,2,56932,1848
+179021,Cabernet Sauvignon,13.5,1,4,3,53846,1763
+179024,Cabernet Sauvignon Aged in Bourbon Barrels,14.5,1,4,3,53846,1763
+179027,Sonoma Coast Pinot Noir,14.0,1,3,3,58234,1898
+179034,Old Vine Zinfandel,14.5,1,5,3,53069,1823
+179039,Riesling,12.5,2,2,3,54987,1778
+179040,Knights Valley Cabernet Sauvignon,14.5,1,4,3,53362,1814
+179043,Special Selection Cabernet Sauvignon,14.5,1,5,2,56763,1848
+179044,Vintner's Reserve Chardonnay,13.5,2,4,3,53078,1763
+179047,Cabernet Sauvignon,15.0,1,4,3,54694,1868
+179050,Red,13.5,1,4,3,54292,1763
+179053,Cabernet Sauvignon,13.5,1,4,3,54987,1778
+179054,Cabernet Sauvignon,13.8,1,4,3,59190,1751
+179058,Cabernet Sauvignon,14.5,1,5,2,56253,1848
+179059,Cabernet Sauvignon,14.2,1,5,2,56881,1848
+179060,Midnight Dark Red Blend,13.7,1,4,3,54292,1763
+179061,Insignia,14.5,1,4,2,56897,1848
+179063,Essential Red,13.5,1,4,3,53854,1763
+179069,Napa Valley Merlot,14.5,1,4,3,55897,1848
+179080,Napa Valley Cabernet Sauvignon,14.5,1,5,2,52667,1848
+179084,Pinot Noir Santa Barbara County,13.5,1,3,3,58468,1885
+179131,Dominus (Christian Moueix),14.5,1,4,2,57083,1934
+179266,Pinot Noir,13.9,1,3,3,33752,1763
+179386,Pinot Noir,13.5,1,3,3,60094,1925
+179397,White Zinfandel,10.0,3,3,2,54220,1763
+179508,White Zinfandel,9.5,3,3,2,53073,1763
+179545,Rutherford Cabernet Sauvignon,13.5,1,5,2,57082,1880
+179634,Cabernet Sauvignon,14.7,1,5,2,57708,1859
+179667,Sauvignon Blanc,13.2,2,3,3,56963,1855
+179690,Brut,12.4,4,3,3,52761,1754
+179705,Pinot Noir,14.0,1,3,3,55402,1793
+179805,Estate Cabernet Sauvignon,15.3,1,5,2,57304,1910
+179855,Cabernet Sauvignon,13.5,1,5,2,54370,1848
+179958,Estate Pinot Noir,13.5,1,3,2,57871,1925
+180028,Prosecco,11.0,4,1,3,53935,1659
+180037,Red Blend,14.6,1,4,3,53683,1763
+180083,Cabernet Sauvignon,14.5,1,5,2,59493,1848
+180089,Estate Grown Pinot Noir,13.9,1,3,3,55882,1826
+180152,Rosé,13.9,3,3,2,58341,1842
+180233,California Champagne Brut,9.5,4,3,3,53205,1763
+180260,Cabernet Sauvignon,15.2,1,5,2,60279,1848
+180268,Old Vine Zinfandel,13.6,1,5,2,55730,1823
+180275,Heritage Reserve Chardonnay,13.5,2,4,3,52867,1763
+180300,Old Vine Zinfandel,15.5,1,5,2,56878,1848
+180330,IX Estate Red,15.1,1,4,2,57081,1848
+180360,Chardonnay,13.5,2,4,3,54287,1763
+180405,Hot to Trot White Blend,13.0,2,2,3,55204,1924
+180681,L'Ermitage Brut,12.0,4,3,3,52761,1754
+180707,Cabernet Sauvignon,13.2,1,4,3,52817,1758
+180712,Dry Creek Valley Zinfandel,14.2,5,5,2,55314,1787
+180750,Brut Vintage,12.5,4,4,3,60009,1925
+180799,Nighthawk Black Red Blend,13.5,1,4,3,53101,1763
+180923,Quartet Brut,12.0,4,3,3,52761,1754
+181062,Tawny Porto 10 Year Old,20.0,6,5,3,53499,1032
+181199,Lauréne Pinot Noir,14.0,1,3,3,55339,1788
+181203,Pinot Noir,14.5,1,3,3,54014,1879
+181280,Red Blend,14.8,1,4,2,56918,1848
+181447,Chardonnay,13.5,2,4,3,53449,1763
+181492,L'Esprit Des Pavots,15.0,1,4,3,55669,1814
+181495,Pinot Grigio,12.9,2,3,3,53904,1763
+181762,Estate Red Blend,14.7,1,4,3,53729,1802
+182081,Cabernet Sauvignon,14.5,1,5,2,57089,1848
+182169,Fortis Cabernet Sauvignon,14.6,1,5,2,56259,1848
+182277,Reserve Chardonnay,13.9,2,4,3,53707,1763
+182294,Rubicon,14.1,1,4,3,58324,1880
+182386,Private Collection Chardonnay,12.5,2,4,3,52867,1768
+182711,Solari,14.3,1,5,2,54372,1848
+182743,Darwin Red,12.5,1,4,3,55586,1848
+182850,Cuvée A Amrita,13.1,2,3,3,60098,1925
+183184,Cabernet Sauvignon,14.5,1,5,2,56820,1848
+183229,Reserve Cabernet Sauvignon,14.5,1,4,3,54287,1751
+183289,Whole Cluster Rosé of Pinot Noir,13.5,3,3,2,60005,1925
+183379,Tychson Hill Vineyard Cabernet Sauvignon,14.9,1,5,2,57081,1848
+183463,Dry Rosé,11.5,3,4,2,53101,1763
+183479,Estate Cuvée Pinot Noir,13.6,1,3,3,60156,1925
+183620,Cuvée A Pinot Noir,13.8,1,3,3,60098,1925
+183771,Pinot Noir,13.0,1,3,3,56621,1826
+183952,Cabernet Franc,14.3,1,3,3,56941,1848
+184116,AME Cabernet Sauvignon,14.8,1,5,2,57167,1848
+184122,Cabernet Sauvignon,13.4,1,4,2,54959,1777
+184423,Anderson Valley Rosé of Pinot Noir,13.2,3,3,2,59508,1754
+184452,Cabernet Sauvignon,15.4,1,5,2,59545,1848
+184497,Moscato,10.0,2,4,3,52752,1753
+184532,Chardonnay,12.8,2,4,3,54212,1763
+184540,Cabernet Sauvignon,12.0,1,5,2,57214,1848
+184541,State Lane Vineyard Merlot,12.0,1,4,3,56590,1848
+184600,Rapscallion Zinfandel,15.5,1,5,3,58440,1868
+184631,Aquarius Ranch Vineyard Chardonnay,14.5,2,4,3,59024,1879
+184678,Blanc de Blancs,12.9,4,3,3,58863,1899
+184745,Cabernet Sauvignon,14.3,1,5,2,57150,1848
+184814,Four Sons Fraternity,14.5,1,4,3,56915,1848
+184822,Pinot Noir,13.8,1,3,3,60165,1925
+184870,Dry Riesling,12.0,2,3,3,55411,1794
+185009,Emmaline Ann Vineyard Pinot Noir,12.5,1,3,3,58741,1898
+185198,Dry Riesling,11.0,2,3,3,60225,1927
+185244,Merlot,12.5,1,4,3,54314,1763
+185248,Estate Chardonnay,12.5,2,4,3,55403,1793
+185481,Coyote Canyon Reserve Syrah,15.5,1,4,2,55009,1805
+185744,White Riesling,10.0,2,3,3,60225,1927
+185866,Rosé of Pinot Noir,13.4,3,3,3,60098,1925
+185917,Vintage Reserve Chardonnay,13.0,2,4,3,53422,1763
+186079,Nana's Rosé,12.1,3,3,2,59803,1921
+186159,Port,18.2,6,5,2,59105,1901
+186843,Pinot Noir,14.1,1,3,2,53785,1823
+187359,Cabernet Sauvignon,14.7,1,5,2,56298,1846
+187681,Barrel Select Fumé Blanc,12.0,2,3,3,52807,1852
+187963,Papa Paulo Private Reserve Port,18.5,5,4,2,59638,1914
+188120,Triple Cream Sherry,18.0,5,5,3,59402,1782
+188472,Pedroni Vineyard Cabernet Franc,14.6,1,3,2,58826,1899
+189080,Diamante Spumante,11.5,4,3,3,59394,1912
+189939,Fortunate Sun Late Harvest Chenin Blanc,9.5,5,3,3,59895,1875
+190485,Late Harvest Sauvignon Blanc,12.9,5,3,3,57593,1826
+190621,Premiere Napa Valley Cabernet Sauvignon,14.8,1,5,3,56229,1846
+191270,Rosé of Pinot Noir,12.1,3,2,2,60181,1925
+192337,Semi-Dry Riesling,9.3,2,2,3,65869,2204
+192341,Odyssey Meritage,13.5,1,4,3,65704,2208
+192356,Chardonnay Unfiltered,12.3,2,4,3,66150,2209
+192359,Riesling-Gewürztraminer,11.5,2,3,2,65824,2204
+192385,Growers Blend Pinot Noir,13.0,1,3,3,65800,2204
+192413,Meritage,13.0,1,4,3,65800,2204
+192489,Quarry Road Vineyard Pinot Noir,12.5,1,3,3,65800,3086
+192497,Small Lot Chardonnay,13.0,2,4,3,65856,3081
+192503,Reserve Syrah,13.5,1,4,3,65809,2204
+192515,Private Reserve Riesling,11.0,2,2,3,65795,2204
+192560,Vidal Special Select Late Harvest,11.0,5,2,3,65895,2204
+192584,Reserve Cabernet Franc,14.5,1,3,3,65809,2204
+192597,Select Lot Collection Merlot,14.0,1,4,3,66048,2208
+192645,Riesling Icewine,9.5,5,4,3,66001,2208
+192666,Riesling Icewine,10.0,2,4,3,65800,2204
+192711,Indian Summer Select Late Harvest Riesling,12.5,5,2,3,65816,2204
+192749,Vidal Icewine,13.0,5,4,3,65807,2203
+192782,Triomphe Cabernet Franc Rosé,12.0,3,3,2,66110,2204
+193031,Pinot Noir,14.1,1,3,3,66033,2208
+193172,Chenin Blanc Cosecha Tardía,10.0,5,4,3,68802,2466
+193203,Don Luis Viognier,13.0,2,4,2,68800,2466
+193214,Calixa Syrah,14.0,1,4,3,68802,2466
+193263,Jaak,13.0,3,4,2,68844,2466
+193347,Cabernet Sauvignon Rosé,13.0,3,4,3,68800,2466
+193349,Crianza Tinto,12.5,1,2,3,68771,2465
+193352,Atempo Rosé,12.5,3,3,2,68766,2465
+193371,Sang Bleu Rosado,12.5,3,4,3,68755,2463
+193478,Rouge (Gaston Hochar),14.0,1,4,2,68431,2434
+193482,Sauvignon Blanc,13.1,2,2,3,69490,2485
+193483,Private Bin Sauvignon Blanc,12.5,2,2,3,68930,2485
+193484,Sauvignon Blanc,13.0,2,2,3,68922,2485
+193485,Sauvignon Blanc,12.5,2,2,3,69573,2485
+193486,Sauvignon Blanc,13.0,2,2,3,69201,2485
+193487,Sauvignon Blanc,13.0,2,2,3,69393,2485
+193488,Pinot Noir,12.5,1,3,2,68922,2485
+193489,Regional Collection Marlborough Sauvignon Blanc,12.5,2,2,3,69559,2485
+193494,Sauvignon Blanc,13.5,2,2,3,69276,2485
+193499,Sauvignon Blanc,12.5,2,2,3,69227,2485
+193530,Sauvignon Blanc,12.0,2,2,3,33752,2485
+193552,Burgenland Red,12.5,1,3,2,61894,2074
+193580,Domaene Gobelsburg Grüner Veltliner,12.5,2,3,3,62086,2077
+193598,Assyrtiko,13.2,2,3,3,67748,2371
+193699,Classic Cabernet Sauvignon,13.2,1,4,3,68277,2416
+193719,Retsina of Attica,12.0,2,2,2,67733,2366
+193731,Paranga White,12.5,2,3,3,67484,2355
+193764,Reserve Cabernet Sauvignon,13.0,1,4,3,60335,2536
+193765,Molodoe (Молодое),12.0,1,3,3,60334,2536
+193775,Chateau Porto Carras,14.0,1,3,2,67525,2374
+193783,Reserve Cabernet,13.0,1,4,3,60334,2536
+193835,Santorini Assyrtiko,13.5,2,3,3,67750,2371
+193855,Vicar's Choice Sauvignon Blanc Bubbles,12.5,4,4,3,69388,2485
+193856,Красностоп Золотовский (Krasnostop Zolotovskiy),14.0,1,3,3,60291,2527
+193910,Lightly Sparkling-Sauvignon Blanc,12.5,4,4,3,68930,2485
+193914,Sparkling Cuvée Brut,12.5,4,3,2,69290,2485
+193941,Shiraz,14.0,1,3,3,60285,2525
+194093,Federspiel Grüner Veltliner,12.0,2,3,3,62600,2089
+194113,Rouge,14.0,1,4,2,68445,2434
+194117,Kotsifali,13.0,1,4,2,67565,2332
+194299,Egri Bikavér Bulls Blood,12.0,1,4,3,68030,2400
+194341,Cuvée De Printemps,12.0,1,3,1,68446,2434
+194479,Santorini,13.0,2,3,3,67766,2371
+194594,Tokaji Aszú 3 Puttonyos,13.5,5,3,3,68180,2413
+194674,Aszú 6 Puttonyos,10.0,5,3,3,68119,2413
+194769,Tokaji Aszú 3 Puttonyos,10.0,5,3,3,68165,2413
+194776,Santorini,13.2,2,3,3,67772,2371
+194820,Vin de Crete Red,12.5,1,3,2,67733,2332
+194848,Kokoro,13.8,1,3,3,69677,2492
+194946,Tiwha Pinot Noir,13.1,1,3,3,69044,2478
+195049,Gravel Pit Merlot-Malbec,13.9,1,3,3,69170,2483
+195069,Elspeth Syrah,14.0,1,4,3,69151,2480
+195170,Bendigo Vineyard Pinot Noir,14.0,1,3,3,69017,2478
+195262,Les Bretèches Rosé,14.0,3,2,2,68430,2434
+195263,Cellar Selection Syrah,14.5,1,4,3,68930,2475
+195300,Zweigelt,12.5,1,3,3,62086,2082
+195407,Earth Smoke Pinot Noir,13.2,1,3,3,68966,2477
+195459,Woodthorpe Vineyard Syrah,13.5,1,4,3,69168,2483
+195476,Cuvée Alexander Rose de Pinot Extra Brut,12.5,4,3,3,60337,2536
+195548,Syrah,13.2,1,4,3,69078,2483
+195560,Syrah,13.0,1,4,3,68629,2457
+195607,Úrágya Tokaji Furmint,14.0,2,3,3,68161,2413
+195646,Special Reserve Brut Cuvée,12.0,4,3,2,69631,2490
+195679,Manastir,13.0,1,4,3,70214,2564
+195821,Maximum Grüner Veltliner,14.0,2,3,3,62078,2077
+195831,Kormilitsa Red,14.1,1,4,2,67523,2328
+195869,Zweigelt Classic,13.0,1,4,3,62400,2082
+195882,Merlot,13.0,1,3,2,68629,2457
+195939,Late Harvest Sémillon,9.5,5,3,3,69124,2483
+195958,Merlot-Cabernet Franc,14.0,1,3,3,69091,2483
+196087,Gemischter Satz,12.5,2,2,3,61849,2074
+196091,Tokaji Muscat Lunel Aszu 6 Puttonyos,11.4,5,3,3,68177,2413
+196197,Riesling Wagramterrassen,13.4,2,3,3,62425,2090
+196249,Chardonnay,13.5,2,4,3,62201,2080
+196255,Gelber Muskateller,11.5,2,3,2,62450,2083
+196273,Merlot,12.5,1,3,2,68634,2457
+196313,Chardonnay,12.5,2,3,2,68629,2457
+196323,Sauvignon Blanc,14.5,2,3,3,70091,2539
+196531,Tokaji Aszú 6 Puttonyos,10.0,5,3,3,68180,2413
+196602,Zweigeltrebe,13.0,1,3,2,66953,2295
+196626,Syrah,14.0,1,3,2,67551,2330
+196663,Maximum Reserve Grüner Veltliner,14.0,2,3,3,62078,2077
+196687,Pošip,13.0,2,3,3,67844,2387
+196710,The Soloist Pinot Rosé,13.5,3,2,2,69028,2478
+196718,Select Rosé Brut,12.5,4,3,3,60334,2536
+196838,Kallisto,13.0,2,4,3,67626,2344
+196894,Merlot,14.5,1,3,2,67654,2352
+196920,Cabernet Sauvignon Rosé,13.5,3,4,2,68548,2449
+196946,Villányi Pinot Noir,14.0,1,2,2,68212,2415
+196988,Cabernet Sauvignon Rosé,11.5,3,3,2,66953,2295
+197511,Single Vineyard Pinot Rosé,13.2,3,2,2,69058,2481
+197580,Grenache Rosé,12.5,3,3,2,68634,2457
+197673,St. Laurent Reserve,13.2,1,4,2,62442,2082
+197701,Sauvignon Blanc,12.0,2,2,3,62456,2083
+197934,Riesling Reserve Stratzinger Sunogeln 1ÖTW,13.2,2,3,3,62276,2082
+198014,Limited Edition Barrel Fermented Chardonnay,14.0,2,4,2,69923,2517
+198061,Petite Arvine,13.0,2,3,2,66671,2251
+198088,Cellar Selection Cabernet Franc Rosé,13.0,3,4,3,69124,2483
+198090,Pinot Noir,11.5,1,2,2,69859,2508
+198479,Vieilles Vignes Chasselas,12.0,2,2,2,66408,2238
+198580,The Falcon Pinot Gris,13.0,2,3,3,69205,2485
+198885,Chasselas,12.0,2,2,2,66420,2219
+199204,Late Harvest Riesling,11.8,5,2,3,69578,2486
+199306,Sweet Beak Late Harvest Riesling,9.5,5,2,3,69205,2485
+199360,Grüner Veltliner Alte Reben,13.5,2,3,3,62400,2090
+199408,Petite Arvine,13.5,2,3,3,66662,2251
+199481,St. Laurent Reserve,14.0,1,3,3,62148,2079
+199533,Mariengarten Chardonnay,12.2,2,4,3,62556,2086
+199885,Grüner Veltliner Federspiel Ried Kreuzberg,12.2,2,3,3,62656,2089
+200139,Drama Queen Rosé,13.0,3,4,2,69643,2490
