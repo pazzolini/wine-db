@@ -1,7 +1,7 @@
 # Wine Database API
 
 ## Overview
-This project is part of the **Database Systems (CC2005)** assignment. It involves designing, implementing, and querying a **relational database for wine data**, including user reviews and wine characteristics. Additionally, a **Python API** was developed to interact with the database, allowing users to retrieve detailed wine-related information via endpoints.
+This project is part of the **Database Systems (CC2005)** course. It involves designing, implementing, and querying a **relational database for wine data**, including user reviews and wine characteristics. Additionally, a **Python API** was developed to interact with the database, allowing users to retrieve detailed wine-related information via endpoints.
 
 ## Features
 - **Relational database design** following the **UML model**.
